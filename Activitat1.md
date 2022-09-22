@@ -29,8 +29,6 @@ Per a crear una nova unitat compartida simplement tenim que entrar a la pàgina 
 L'únic usuari de la carpeta backup serà l’administrador ja que és l’únic que té permís de veure i editar la còpia de seguretat.
 
 
-
-
 ### Carpeta de documents
 
 ![Selecció_054](https://user-images.githubusercontent.com/114162327/191776246-22b31a8b-d2c7-44de-a791-9010b45bcf23.png)
