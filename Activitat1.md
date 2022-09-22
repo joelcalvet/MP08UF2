@@ -24,7 +24,7 @@ Per a crear una nova unitat compartida simplement tenim que entrar a la pàgina 
 ### Carpeta de backup
 
 
-![Selecció_002](https://user-images.githubusercontent.com/114162334/191770899-34d8ad20-d574-49e5-8608-5f9cbaf8df46.png)
+![Selecció_053](https://user-images.githubusercontent.com/114162327/191776325-6f2ee30e-0ab3-4b1b-b0be-fd6eed4978d0.png)
 
 L'únic usuari de la carpeta backup serà l’administrador ja que és l’únic que té permís de veure i editar la còpia de seguretat.
 
@@ -33,8 +33,7 @@ L'únic usuari de la carpeta backup serà l’administrador ja que és l’únic
 
 ### Carpeta de documents
 
-
-![Selecció_003](https://user-images.githubusercontent.com/114162334/191773630-fb94cbe0-2c20-4fc7-b5ce-89809a06c5e5.png)
+![Selecció_054](https://user-images.githubusercontent.com/114162327/191776246-22b31a8b-d2c7-44de-a791-9010b45bcf23.png)
 
 
 El compte de Joel és l’administrador, pot llegir i editar els arxius que estiguin a la carpeta.
