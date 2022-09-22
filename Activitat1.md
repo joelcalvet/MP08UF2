@@ -30,3 +30,5 @@ demanarà una petició a l’administrador per a poder-lo editar.
 
 ![Selecció_052](https://user-images.githubusercontent.com/114162327/191770115-76c38bc2-9d7f-4ee9-be44-33b9c4626a18.png)
 
+No ho pot borrar perquè no té permisos d’edició.
+
