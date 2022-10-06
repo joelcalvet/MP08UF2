@@ -85,4 +85,4 @@ Finalment escrivim localhost/owncloud al nevagador i posem usuari i contrasenya.
 
 ![Selecció_088](https://user-images.githubusercontent.com/114162327/193105137-381daa86-5664-401e-a14d-a8218e3f218b.png)
 
-(No es veu com executo les comandes perquè no he fet captures quan ho feia)
+(No es veu com executo les comandes perquè no he fet captures quan les executava)
