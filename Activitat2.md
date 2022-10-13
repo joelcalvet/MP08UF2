@@ -86,3 +86,63 @@ Finalment escrivim localhost/owncloud al nevagador i posem usuari i contrasenya.
 ![Selecció_088](https://user-images.githubusercontent.com/114162327/193105137-381daa86-5664-401e-a14d-a8218e3f218b.png)
 
 (No es veu com executo les comandes perquè no he fet captures quan les executava)
+
+Ara instal·leu Owncloud seguint el tutorial.
+
+Expliqueu com fer la instal·lació pas a pas.
+
+El nom de domini vostre serà owncloud.XYZ.com on XYZ són les vostres inicials.
+
+![Selecció_133](https://user-images.githubusercontent.com/114162327/195667029-5ba298ea-7a87-4b84-bc53-06aa436540b8.png)
+
+Entrem al fitxer de configuració de l'Owncloud.
+
+![Selecció_132](https://user-images.githubusercontent.com/114162327/195667601-de229981-a981-4a51-bcb1-c0a4210de16a.png)
+
+Aquí canviem el nom i alias del servidor i afegim tot el que hi ha a baix.
+
+![Selecció_134](https://user-images.githubusercontent.com/114162327/195668697-0b0fc215-8619-4636-bc0d-8c886b96942b.png)
+
+Habilito Owncloud i el mode rewrite.
+
+![Selecció_135](https://user-images.githubusercontent.com/114162327/195668809-3a807a71-97e5-473e-995a-ac51d2446eba.png)
+
+Reinicio el servidor per a que es guardin tots els canvis.
+
+![Selecció_136](https://user-images.githubusercontent.com/114162327/195668908-33e7118b-0567-482d-90c3-a9c16e1202eb.png)
+
+Editem aquest fitxer de configuració.
+
+![Selecció_137](https://user-images.githubusercontent.com/114162327/195669017-ea0381ee-cb96-443f-85bd-30a1893858e1.png)
+
+Es té que posar owncloud.(les inicials).com
+
+Expliqueu:
+
+- Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
+
+![](https://dungeonofbits.com/images/owncloud1.jpg)
+
+- L'identificador de l'admin.
+- El lloc a on l'owncloud està instal·lat
+- El nom del servidor
+- L'alias del servidor per si se busca en www. davant.
+- Un alias per a dir que /owncloud és el mateix que /var/www/html/owncloud.
+- El directori a on està situat l'Owncloud.
+- FollowSymLinks és un enllaç simbolic, el que fa aquesta linia es activar-los.
+- Serveix per a facilitar la realització de canvis en la configuració, fa que els fitxers .htaccess funcionin.
+- Desactiva el dav.
+- Fa que la pàgina principal sigui /var/www/html/owncloud
+- És un missatge d'error
+
+- Què fa la comanda a2ensite?
+
+Habilita el lloc web.
+
+- I la comanda a2dissite?
+
+Dishabilita el lloc web.
+
+- Què significa la línia de /etc/hosts 
+  - 127.0.0.1 owncloud.XYZ.com
+  - Serveix per a fer una relació entre la ip i la direcció
