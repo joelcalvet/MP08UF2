@@ -74,3 +74,19 @@ Si, és una extensió que es diu Owncloud Anti-Virus extension. Ajuda proteigint
 - Mostra la versió d'Owncloud instal·lada.
 
 **RESPOSTA**
+
+![Selecció_128](https://user-images.githubusercontent.com/114162327/195662016-5005d087-b1e8-4b30-933d-33a46a69b508.png)
+
+- Per a entrar a configuració es té que clicar a dalt a la dreta i ajustes.
+
+![Selecció_130](https://user-images.githubusercontent.com/114162327/195661947-77171080-7456-40d8-92c9-3c68caf26b79.png)
+
+- Per a penjar la foto es té que clicar la fletxeta i triar la imatge que vulguessim.
+- Per a posar l'email simplement tenim que escriure'l i clicar al botó del costat
+- Per a canviar l'idioma només el tenim que buscar i clicar-lo. 
+![Selecció_131](https://user-images.githubusercontent.com/114162327/195662788-1a2b5010-0d75-47ce-a2a0-7f60d7c153a9.png)
+- La versió surt a baix de tot de la pàgina de configuració. 
+
+
+
+
