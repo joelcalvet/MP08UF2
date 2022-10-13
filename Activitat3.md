@@ -31,7 +31,7 @@ Encryption in transit, encryption at rest and end-to-end encryption.
 
 1. Encryption in transit: L'Owncloud porta HTTPS per defecte, té els protocols TLS més nous.
 2. Encryption at rest: Els arxius es guarden al servidor d'Owncloud envés de guardar-los al disc dur per a tindre molta més seguretat, perquè utilitza una clau mestre.
-3. End-to-end encryption: Per a assegurar-se de que ningú pugui accedir als arxius encriptats l'Owncloud utilitza el end-to-end ja que és el nivell més alt de protecció de dades. 
+3. End-to-end encryption: Per a assegurar-se de que ningú pugui accedir als arxius encriptats, l'Owncloud utilitza el end-to-end ja que és el nivell més alt de protecció de dades. 
 
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
 
@@ -84,7 +84,9 @@ Si, és una extensió que es diu Owncloud Anti-Virus extension. Ajuda proteigint
 - Per a penjar la foto es té que clicar la fletxeta i triar la imatge que vulguessim.
 - Per a posar l'email simplement tenim que escriure'l i clicar al botó del costat
 - Per a canviar l'idioma només el tenim que buscar i clicar-lo. 
+
 ![Selecció_131](https://user-images.githubusercontent.com/114162327/195662788-1a2b5010-0d75-47ce-a2a0-7f60d7c153a9.png)
+
 - La versió surt a baix de tot de la pàgina de configuració. 
 
 
