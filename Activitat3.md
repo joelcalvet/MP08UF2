@@ -30,7 +30,7 @@ Encryption in transit, encryption at rest and end-to-end encryption.
 - Fes una petita descripció de cada un d'ells.
 
 1. Encryption in transit: L'Owncloud porta HTTPS per defecte, té els protocols TLS més nous.
-2. Encryption at rest: Els arxius es guarden al servidor d'Owncloud envés de guardar-los al disc dur per a tindre molta més seguretat perquè utilitza una clau mestre.
+2. Encryption at rest: Els arxius es guarden al servidor d'Owncloud envés de guardar-los al disc dur per a tindre molta més seguretat, perquè utilitza una clau mestre.
 3. End-to-end encryption: Per a assegurar-se de que ningú pugui accedir als arxius encriptats l'Owncloud utilitza el end-to-end ja que és el nivell més alt de protecció de dades. 
 
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
