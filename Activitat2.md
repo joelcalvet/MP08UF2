@@ -123,17 +123,17 @@ Expliqueu:
 
 ![](https://dungeonofbits.com/images/owncloud1.jpg)
 
-- L'identificador de l'admin.
-- El lloc a on l'owncloud està instal·lat
-- El nom del servidor
-- L'alias del servidor per si se busca en www. davant.
-- Un alias per a dir que /owncloud és el mateix que /var/www/html/owncloud.
-- El directori a on està situat l'Owncloud.
-- FollowSymLinks és un enllaç simbolic, el que fa aquesta linia es activar-los.
-- Serveix per a facilitar la realització de canvis en la configuració, fa que els fitxers .htaccess funcionin.
-- Desactiva el dav.
-- Fa que la pàgina principal sigui /var/www/html/owncloud
-- És un missatge d'error
+→ ServerAdmin: L'identificador de l'admin.
+→ DocumentRoot: El lloc a on l'owncloud està instal·lat
+→ Server Name: El nom del servidor
+→ ServerAlias: L'alias del servidor per si se busca en www. davant.
+→ Alias: Un alias per a dir que /owncloud és el mateix que /var/www/html/owncloud.
+→ Directory: El directori a on està situat l'Owncloud.
+→ Options: FollowSymLinks és un enllaç simbolic, el que fa aquesta linia es activar-los.
+→ AllowOverride: Serveix per a facilitar la realització de canvis en la configuració, fa que els fitxers .htaccess funcionin.
+→ IfModule: Desactiva el dav.
+→ SetEnv HOME: Fa que la pàgina principal sigui /var/www/html/owncloud
+→ ErrorLog: És un missatge d'error
 
 - Què fa la comanda a2ensite?
 
@@ -144,5 +144,5 @@ Habilita el lloc web.
 Dishabilita el lloc web.
 
 - Què significa la línia de /etc/hosts 
-  - 127.0.0.1 owncloud.XYZ.com
-  - Serveix per a fer una relació entre la ip i la direcció
+  → 127.0.0.1 owncloud.XYZ.com
+  → Serveix per a fer una relació entre la ip i la direcció
