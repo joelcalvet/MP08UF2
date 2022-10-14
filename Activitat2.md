@@ -123,17 +123,27 @@ Expliqueu:
 
 ![](https://dungeonofbits.com/images/owncloud1.jpg)
 
-→ ServerAdmin: L'identificador de l'admin.
-→ DocumentRoot: El lloc a on l'owncloud està instal·lat
-→ Server Name: El nom del servidor
-→ ServerAlias: L'alias del servidor per si se busca en www. davant.
-→ Alias: Un alias per a dir que /owncloud és el mateix que /var/www/html/owncloud.
-→ Directory: El directori a on està situat l'Owncloud.
-→ Options: FollowSymLinks és un enllaç simbolic, el que fa aquesta linia es activar-los.
-→ AllowOverride: Serveix per a facilitar la realització de canvis en la configuració, fa que els fitxers .htaccess funcionin.
-→ IfModule: Desactiva el dav.
-→ SetEnv HOME: Fa que la pàgina principal sigui /var/www/html/owncloud
-→ ErrorLog: És un missatge d'error
+→ ServerAdmin admin@example.com: L'identificador de l'admin.
+
+→ DocumentRoot /var/www/html/owncloud/: El lloc a on l'owncloud està instal·lat.
+
+→ Server Name dungeonofbits.com: El nom del servidor.
+
+→ ServerAlias www.dungeonofbits.com: L'alias del servidor per si se busca en www. davant.
+
+→ Alias /owncloud: Un alias per a dir que /owncloud és el mateix que /var/www/html/owncloud.
+
+→ Directory /var/www/html/owncloud/: El directori a on està situat l'Owncloud.
+
+→ Options +FollowSymLinks: FollowSymLinks és un enllaç simbolic, el que fa aquesta linia es activar-los.
+
+→ AllowOverride All: Serveix per a facilitar la realització de canvis en la configuració, fa que els fitxers .htaccess funcionin.
+
+→ Dav off: Desactiva el dav.
+
+→ SetEnv HOME /var/www/html/owncloud/: Fa que la pàgina principal sigui /var/www/html/owncloud.
+
+→ ErrorLog ${APACHE_LOG_DIR}/error.log: És un missatge d'error.
 
 - Què fa la comanda a2ensite?
 
