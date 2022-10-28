@@ -107,7 +107,12 @@ Es té que clicar a recuperar per a restaurar-lo.
 
 **RESPOSTA PRIMERA APP**
 
+![Selecció_190](https://user-images.githubusercontent.com/114162327/198654428-e47005fd-d609-4609-8850-e1be8c45c653.png)
+
+En aquesta app clicant al botò que hi ha baix de la columna Impresionate. 
+
 **RESPOSTA SEGONA APP**
+
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
