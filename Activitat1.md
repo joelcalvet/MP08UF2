@@ -69,9 +69,7 @@ Aquí es pot veure com no pot editar el document perquè només té permís per 
 veure’l. A la part de dalt del document surt sol·licita accés d’edició, si ho fa,
 demanarà una petició a l’administrador per a poder-lo editar.
 
-### - Comproveu si un usuari/a pot eliminar sense voler algun document.
 
-![Selecció_052](https://user-images.githubusercontent.com/114162327/191770115-76c38bc2-9d7f-4ee9-be44-33b9c4626a18.png)
 
-No ho pot borrar perquè no té permisos d’edició.
+Aixo es una prova
 

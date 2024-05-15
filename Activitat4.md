@@ -64,6 +64,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
 
+prova
+
 **RESPOSTA**
 
 ![Selecció_182](https://user-images.githubusercontent.com/114162327/198066582-b8dc168c-abb0-47ae-b2c4-207052514743.png)

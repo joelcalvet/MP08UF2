@@ -35,6 +35,8 @@ Reiniciem el servidor MariaDB.
 
 Entrem al servidor.
 
+prova
+
 ![Selecció_083](https://user-images.githubusercontent.com/114162327/193096933-8ab075fd-ab2a-4287-9902-fbc23e23651b.png)
 
 Creem la base de dades.
