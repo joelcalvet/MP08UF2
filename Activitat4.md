@@ -76,7 +76,7 @@ prova
 
 ![Selecció_183](https://user-images.githubusercontent.com/114162327/198067370-ff6980b6-126a-4292-a99e-16f650c6a145.png)
 
-![Selecció_184](https://user-images.githubusercontent.com/114162327/198069023-be901b90-5b13-4c66-a62b-bfd2285cc096.png)
+![Selecció_184](https://user-images.githubusercontent.com/114162327/198069023-be901b90-5b13-4c66-a62b-bfd2285cc096.png)dfg
 
 
 **4.10.-** Esborra la carpeta Learn more about owncloud.
