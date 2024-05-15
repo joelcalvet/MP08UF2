@@ -69,7 +69,7 @@ Aquí es pot veure com no pot editar el document perquè només té permís per 
 veure’l. A la part de dalt del document surt sol·licita accés d’edició, si ho fa,
 demanarà una petició a l’administrador per a poder-lo editar.
 
-
+sefsdf
 
 Aixo es una prova
 
